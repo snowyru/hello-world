@@ -1,5 +1,5 @@
 # hello-world
 hi
-//My name is snowy and
+//My name is Snowy and
 I have made changes //
 
